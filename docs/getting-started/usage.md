@@ -1,6 +1,6 @@
 ### Running a scan
 
-Use the `scan` command with the `-n` (or `--number`) option.
+Use the `scan` command with the `-n` (or `--number +1 3468147666`) option.
 
 ```
 phoneinfoga scan -n "+1 (555) 444-1212"
